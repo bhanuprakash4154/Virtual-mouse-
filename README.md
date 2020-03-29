@@ -1,5 +1,5 @@
 # Virtual-mouse-
-Creating a virtual mouse gesture using OpenCV module
+Creating a virtual mouse by performing fingertip gestures using OpenCV module
 
 Virtual Mouse Using Gesture Recognition
 Implementing a virtual mouse using gesture recognition .
